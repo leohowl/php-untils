@@ -1,0 +1,14 @@
+{
+    "name": "leohowl/utils",
+    "description": "leohowl/utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leohowl",
+            "email": "leo_howl@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
